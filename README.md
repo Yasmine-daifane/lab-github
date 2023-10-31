@@ -1,4 +1,6 @@
 # lab-github# lab-github <br>
+## Tasks that need to be completed in this lab :
+### Working with branches in GitHub and resolving conflicts
 
 **Steps to make conflict** <br>
 

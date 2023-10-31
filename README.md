@@ -11,7 +11,7 @@ After collaborate with someone else to work on same repo
 git clone https://github.com/yasmine-daifane/lab-github.git
 
 ```
-***than you need to clone your repo*** <br>
+
 
 - than you can start changing in files according to your tasks
 **=>** but sometimes you may change same line that your group mate changed too <br>
@@ -76,7 +76,7 @@ If there are conflicts during the merge process, Git will pause and allow you to
 ```
 <body>
 <<<<<<< HEAD
-    Hello im jalil betroji a full stack developer and solicode intern
+    Hello im me a human being 
 =======
     hussein ipsum dolor sit amet consectetur adipisicing elit. 
 >>>>>>> origin/hussein

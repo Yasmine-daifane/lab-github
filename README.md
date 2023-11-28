@@ -1,13 +1,13 @@
 # lab-github <br>
-## travail a faire
+## Travail a faire
 Livre des Recettes
 
 Deux collaborateurs, hussein et yasmine, travaillent sur une recettes dans un projet Git pour un "Livre des Recettes".
 ### Critere de validation  :
 - Branches et Modifications :
 
-Alice crée une branche pour une recette et y apporte des modifications (yasmine).
-Bob fait de même pour une autre recette (hussein).
+yasmine crée une branche pour une recette et y apporte des modifications (yasmine).
+hussein fait de même pour une autre recette (hussein).
 
 - Conflit Simulé :
 
@@ -19,7 +19,7 @@ Ils identifient les changements conflictuels dans leurs recettes respectives.
 Ils choisissent ensemble les modifications à conserver pour créer une version finale.
 - Résolution et Commit :
 
-Une fois le conflit résolu, Bob commite les changements avec un message de commit clair indiquant la résolution.
+Une fois le conflit résolu, hussein commite les changements avec un message de commit clair indiquant la résolution.
 
 - utilisation de merge 
 

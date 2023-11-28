@@ -17,3 +17,9 @@ Deux collaborateurs, hussein et yasmine, travaillent sur une recettes dans un pr
 [Resolving a Merge Conflict on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line) 
 
 [Merge](https://git-scm.com/docs/git-merge#_how_conflicts_are_presented)
+
+#### Solution 
+
+[Recette](https://github.com/Yasmine-daifane/lab-github/blob/master/recette.html)
+
+[les commandes]()

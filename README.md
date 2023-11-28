@@ -5,7 +5,7 @@ Livre des Recettes
 Deux collaborateurs, hussein et yasmine, travaillent sur une recettes dans un projet Git pour un "Livre des Recettes".
 
 ### Critere de validation  :
-- Branches et Modifications 
+-  creation des Branches 
   
 - Résolution de Conflits 
 

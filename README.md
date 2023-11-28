@@ -22,4 +22,4 @@ Deux collaborateurs, hussein et yasmine, travaillent sur une recettes dans un pr
 
 [Recette](https://github.com/Yasmine-daifane/lab-github/blob/master/recette.html)
 
-[les commandes]()
+[commandes utiliser pour avoir la solution ](https://github.com/Yasmine-daifane/lab-github/blob/master/Commandes.md)
